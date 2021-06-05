@@ -2,6 +2,6 @@
 	"permissions": "*",
 	"dependencies": ["base"],
 	"autoload": {
-		"directories": ["libraries", "processes"]
+		"directories": ["libraries"]
 	}
 }
