@@ -1,0 +1,7 @@
+{
+	"permissions": "*",
+	"dependencies": ["base"],
+	"autoload": {
+		"directories": ["libraries"]
+	}
+}
